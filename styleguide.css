@@ -1,0 +1,22 @@
+:root {
+  --education-spaces: rgba(254, 255, 230, 1);
+  --industrial: rgba(236, 219, 233, 1);
+  --commercial: rgba(243, 217, 217, 1);
+  --residential-areas: rgba(225, 225, 225, 1);
+  --park-fill: rgba(190, 253, 200, 1);
+  --wood-fill: rgba(174, 209, 159, 1);
+  --pitch-fill: rgba(170, 224, 203, 1);
+  --water-area-fill: rgba(178, 178, 229, 1);
+  --water-line-stroke: rgba(178, 178, 229, 1);
+  --building-fill: rgba(204, 204, 204, 1);
+  --building-stroke: rgba(179, 179, 179, 1);
+  --rail: rgba(128, 153, 204, 1);
+  --service-road: rgba(178, 153, 153, 1);
+  --traffic-road: rgba(153, 153, 153, 1);
+  --traffic-road-major: rgba(252, 214, 164, 1);
+  --traffic-road-super-major: rgba(232, 146, 162, 1);
+  --path: rgba(153, 153, 153, 1);
+  --tree-fill: rgba(157, 219, 150, 1);
+  --blackwhite: rgba(255, 255, 255, 1);
+  --black-900: rgba(13, 14, 15, 1);
+}
